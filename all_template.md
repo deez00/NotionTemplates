@@ -38,3 +38,8 @@ link - author - thumbnail
 https://cecil-p.notion.site/cecil-p/SIMPLE-DASHBOARD-LIGHT-fbc3f5c811ff4c14b3dad2b22a322ece
 https://www.reddit.com/user/thewoofboy/
 https://preview.redd.it/fzksotj0q11a1.png?width=640&crop=smart&auto=webp&s=c0418afabcbbdd25725c9876a33dcac09aa97c25
+link - author - thumbnail
+https://lifedesignos.notion.site/Travel-Planner-0ecd638d6329427b9f054b782cd76359
+https://www.reddit.com/user/daniel7_m/
+https://preview.redd.it/1gzkxbib1ky91.png?width=2530&format=png&auto=webp&s=3d396bbc445aba0a999b24508504076bc76fbe84
+link - author - thumbnail
